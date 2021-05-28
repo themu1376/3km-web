@@ -1,13 +1,13 @@
-.App {
+.intro {
   text-align: center;
 }
 
-.App-logo {
+.intro-logo {
   /*height: 40vmin;*/
   pointer-events: none;
 }
 
-.App-header {
+.intro-header {
   background-color: #FAAE55;
   min-height: 100vh;
   display: flex;
@@ -16,8 +16,4 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
 }

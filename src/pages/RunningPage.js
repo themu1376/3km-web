@@ -2,7 +2,7 @@ import React from 'react';
 
 const RunningPage = () => {
   return(
-    <div>
+    <div id="running">
         <h2>Running Page</h2>
     </div>
   )

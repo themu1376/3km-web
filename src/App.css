@@ -1,1 +1,23 @@
+header {
+  position: fixed; top: 25px; left: 25px; right: 25px;
+}
+header ul {
+  display: flex;
+}
+header ul li {
+  flex: 1; text-align: center;
+  line-height: 50px; color: #555;
+  border: 1px solid rgba(0,0,0,0);
+  border-radius: 1000px;
+}
+header .active {
+  border: 1px solid #555; background: rgba(255,255,255,0.5);
+}
+
+footer {
+  position: fixed; bottom: 25px; left: 50%; transform: translateX(-50%);
+}
+
+.intro ~ header,
+.intro ~ footer { display: none; }
 

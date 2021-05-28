@@ -8,10 +8,10 @@ const IntroPage = () => {
     document.location.href = "/ready";
   }, 1000);
   return(
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+    <div className="intro">
+      <div className="intro-header">
+        <img src={logo} className="intro-logo" alt="logo" />
+      </div>
     </div>
   )
 }
