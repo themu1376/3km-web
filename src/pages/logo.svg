@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138.29" height="228.596" viewBox="0 0 138.29 228.596">
+  <g id="그룹_1" data-name="그룹 1" transform="translate(-118 -334.404)">
+    <path id="패스_1" data-name="패스 1" d="M207.963,363.106c-16.085,2.153-22.743.425-27.78-4.138s-5.391-10.659-5.669-12.464,1.013-3.661-2.605-7.279S165.4,337.3,165.4,337.3L131.181,371.52s-22.6,17.043,0,38.343S185.348,464.3,185.348,464.3s10.025,11.4,32.329,11.4h20.914s15.2.845,15.2-13.08-9.163-18.473-9.163-18.473-28.745-10.826-28.745-35.123S224.048,360.952,207.963,363.106Z" fill="#ffe0bc" stroke="#707070" stroke-width="5"/>
+    <line id="선_1" data-name="선 1" x2="12" transform="translate(120.5 442.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+    <line id="선_4" data-name="선 4" x2="18" transform="translate(199.5 381.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+    <line id="선_5" data-name="선 5" x2="16" transform="translate(199.5 395.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+    <line id="선_6" data-name="선 6" x2="16" transform="translate(199.5 409.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+    <line id="선_2" data-name="선 2" x2="29" transform="translate(120.5 459.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+    <line id="선_3" data-name="선 3" x2="51" transform="translate(120.5 476.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+    <path id="패스_2" data-name="패스 2" d="M131.509,371.513l69.009,79.328s8.449,7.642,12.892,7.968,39.925,0,39.925,0" fill="none" stroke="#707070" stroke-width="5"/>
+    <path id="패스_3" data-name="패스 3" d="M147.507,355.346s11.262,15.184,1.546,36.431" fill="none" stroke="#707070" stroke-width="5"/>
+    <text id="_3KM" data-name="3KM" transform="translate(121 549)" fill="#7e7e7e" font-size="60" font-family="NanumGothicBold, Nanum Gothic"><tspan x="0" y="0">3KM</tspan></text>
+  </g>
+</svg>
