@@ -1,0 +1,17 @@
+
+#pause .speed:before {
+	content: ''; 
+	position: absolute;
+	display: block;
+}
+#pause .speed:after {
+	content: ''; 
+	position: absolute;
+	display: block;
+}
+#pause .speed-text {
+	font-size: 80px;
+	font-weight: 300;
+	padding-left: 15px;
+	letter-spacing: 30px;
+}
